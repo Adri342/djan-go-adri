@@ -1,0 +1,1 @@
+web: gunicorn mysiteTut.wsgi --log-file -
